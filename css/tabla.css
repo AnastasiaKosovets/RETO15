@@ -20,5 +20,9 @@ table {
 
 .information {
     color: rgb(139, 7, 7);
-    background-color: rgb(247, 243, 185);
+    background-image: url(../img/descarga.png);
+    background-size: contain;
+    background-position-x: center;
+    
 }
+
