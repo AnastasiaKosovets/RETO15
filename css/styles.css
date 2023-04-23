@@ -1,3 +1,4 @@
-.list > ul li {
+.list > ul .name {
     list-style-type: none;
 }
+
