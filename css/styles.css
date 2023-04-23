@@ -2,6 +2,10 @@
     list-style-type: none;
 }
 
-.lista1 {
+.list1 {
     list-style-type: lower-alpha;
+}
+
+.list2 {
+    list-style-type: upper-roman;
 }
