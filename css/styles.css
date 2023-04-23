@@ -2,3 +2,6 @@
     list-style-type: none;
 }
 
+.lista1 {
+    list-style-type: lower-alpha;
+}
